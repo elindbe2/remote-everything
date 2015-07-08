@@ -1,0 +1,2 @@
+* Create QMake project in QtCreator
+* Get QMake project compiling and run tests
